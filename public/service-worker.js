@@ -2,9 +2,8 @@ const FILES_TO_CACHE = [
     '/',
     '/index.html',
     '/style.css',
-    '/bundle.js',
-    'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
-    'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
+    '/dist/bundle.js',
+    'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
   ];
   
   const PRECACHE = 'precache-v1';
